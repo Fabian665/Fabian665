@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fabian665
-- 👀 I’m interested in recreational code and IOT
+- 👀 I’m interested in recreational code
 - 🌱 I’m currently learning Data engineering in BGU, Israel
 - 💞️ I’m looking to collaborate on python projects that revolves around data, APIs and IOT.
 - 📫 Hit me up here or on LinkedIn
